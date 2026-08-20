@@ -1,20 +1,20 @@
-class Pessoa{
+class Pessoa {
     #nome;
 
-    constructor(nome){
+    constructor(nome) {
         this.#nome = nome;
     }
 
-    get nome(){
-        return this.#nome
-
-    }
-    set nome(valor){
-        if(valor.lenght >= 2) this.#nome = valor; 
+    get nome() {
+        return this.#nome;
     }
 
+    set nome(valor) {
+        if (valor.length >= 2) this.#nome = valor; 
+    }
 }
 
-const pessoa = new Pessoa("Pedro");
+let pessoa = new Pessoa("Pedro");
+console.log(pessoa.nome); 
 pessoa.nome = "Igor";
-console.log(pessoa.nome);
+console.log(pessoa.nome); 
