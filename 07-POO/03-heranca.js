@@ -13,3 +13,4 @@ class Aluno extends Pessoa{
 
 const aluno = new Aluno("Jefferson", "Desenvolvimento de Sistemas");
 console.log(aluno);
+    

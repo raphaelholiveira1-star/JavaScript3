@@ -13,4 +13,5 @@ class Professor extends Funcionario{
 }
 
 const professor = new Professor("Jansen", 50000, "Devops");
-console.log(professor)
+console.log(`O professor ${professor.nome} recebe um salário de R$${professor.salario},00 e leciona a disciplina de ${professor.disciplina}.`);
+
