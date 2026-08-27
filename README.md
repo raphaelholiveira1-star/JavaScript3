@@ -184,27 +184,27 @@ Ao final, desenvolva os desafios integradores utilizando os conteúdos estudados
 
 ## Checklist
 
-- [ ] Funções
-- [ ] Parâmetros
-- [ ] Return
-- [ ] Arrow Functions
-- [ ] forEach
-- [ ] map
-- [ ] filter
-- [ ] find
-- [ ] reduce
-- [ ] Objetos
-- [ ] Arrays de objetos
-- [ ] this
-- [ ] Desestruturação
-- [ ] Spread
-- [ ] JSON
-- [ ] Classes
-- [ ] Constructor
-- [ ] Instâncias
-- [ ] Encapsulamento
-- [ ] Herança
-- [ ] Polimorfismo
+- [X] Funções
+- [X] Parâmetros
+- [X] Return
+- [X] Arrow Functions
+- [X] forEach
+- [X] map
+- [X] filter
+- [X] find
+- [X] reduce
+- [X] Objetos
+- [X] Arrays de objetos
+- [X] this
+- [X] Desestruturação
+- [X] Spread
+- [X] JSON
+- [X] Classes
+- [X] Constructor
+- [X] Instâncias
+- [X] Encapsulamento
+- [X] Herança
+- [X] Polimorfismo
 
 ## Conclusão
 
