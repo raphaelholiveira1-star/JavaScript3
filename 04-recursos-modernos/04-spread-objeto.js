@@ -2,4 +2,4 @@ const usuario = {nome: "Pedro", idade: 16};
 
 const atualizado = {...usuario, idade: 21};
 
-console.logI(atualizado);
+console.log(atualizado); // { nome: 'Pedro', idade: 21 }
